@@ -17,6 +17,6 @@ The **Smart File Organizer CLI** scans a designated target directory (e.g., `Dow
 
 
 ```bash
-git clone [https://github.com/vedsingh88933-star /YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/vedsingh88933-star /Smart-file-and-download-organiser.git](https://github.com/vedsingh88933-star/gSmart-file-and-download-organiser.git)
 cd YOUR_REPOSITORY_NAME
 
